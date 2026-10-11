@@ -1,0 +1,6 @@
+# Owners of forkflame-api (backend services)
+
+* @forkflame/backend-team
+/docs/ @forkflame/docs-team
+/src/payments/ @forkflame/payments-team
+/src/auth/ @forkflame/security-team
